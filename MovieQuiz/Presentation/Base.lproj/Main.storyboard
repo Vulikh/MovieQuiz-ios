@@ -117,6 +117,7 @@
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="Qrf-Wd-2fR" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="9iu-Ar-Rx2"/>
+                            <constraint firstItem="Qrf-Wd-2fR" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="20" id="EZY-mg-D37"/>
                             <constraint firstItem="Qrf-Wd-2fR" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="10" id="h7h-tD-kOr"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Qrf-Wd-2fR" secondAttribute="trailing" constant="20" id="u3k-ay-pRc"/>
                         </constraints>
