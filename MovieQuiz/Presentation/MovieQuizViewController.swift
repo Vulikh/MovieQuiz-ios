@@ -142,7 +142,6 @@ final class MovieQuizViewController: UIViewController {
         
         DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
             self.showNextQuestionOrResults()
-            self.yesButton.isEnabled = true
             self.noButton.isEnabled = true
         }
     }
