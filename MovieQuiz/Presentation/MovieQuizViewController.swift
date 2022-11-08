@@ -66,7 +66,7 @@ final class MovieQuizViewController: UIViewController {
     @IBOutlet private var imageView: UIImageView!
     @IBOutlet private var textLabel: UILabel!
     @IBOutlet private var counterLabel: UILabel!
-    @IBOutlet var noButton: UIButton!
+    @IBOutlet private var noButton: UIButton!
     @IBOutlet var yesButton: UIButton!
     
     private var currentQuestionIndex: Int = 0
